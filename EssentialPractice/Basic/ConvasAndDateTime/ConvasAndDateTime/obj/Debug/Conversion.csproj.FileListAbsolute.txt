@@ -1,0 +1,15 @@
+C:\Users\Dhruv\Desktop\dhruvesh\ConvasAndDateTime\ConvasAndDateTime\bin\Debug\ConvasAndDateTime.exe.config
+C:\Users\Dhruv\Desktop\dhruvesh\ConvasAndDateTime\ConvasAndDateTime\obj\Debug\ConvasAndDateTime.exe
+C:\Users\Dhruv\Desktop\dhruvesh\ConvasAndDateTime\ConvasAndDateTime\obj\Debug\ConvasAndDateTime.pdb
+C:\Users\Dhruv\Desktop\dhruvesh\ConvasAndDateTime\ConvasAndDateTime\bin\Debug\ConvasAndDateTime.exe
+C:\Users\Dhruv\Desktop\dhruvesh\ConvasAndDateTime\ConvasAndDateTime\bin\Debug\ConvasAndDateTime.pdb
+C:\Users\Dhruv\Desktop\dhruvesh\ConvasAndDateTime\ConvasAndDateTime\obj\Debug\Conversion.csprojResolveAssemblyReference.cache
+C:\Users\Dhruvesh\Desktop\dhruvesh\Before18-7\ConvasAndDateTime\ConvasAndDateTime\bin\Debug\ConvasAndDateTime.exe.config
+C:\Users\Dhruvesh\Desktop\dhruvesh\Before18-7\ConvasAndDateTime\ConvasAndDateTime\obj\Debug\ConvasAndDateTime.exe
+C:\Users\Dhruvesh\Desktop\dhruvesh\Before18-7\ConvasAndDateTime\ConvasAndDateTime\obj\Debug\ConvasAndDateTime.pdb
+C:\Users\Dhruvesh\Desktop\dhruvesh\Before18-7\ConvasAndDateTime\ConvasAndDateTime\bin\Debug\ConvasAndDateTime.exe
+C:\Users\Dhruvesh\Desktop\dhruvesh\Before18-7\ConvasAndDateTime\ConvasAndDateTime\bin\Debug\ConvasAndDateTime.pdb
+C:\Users\Dhruvesh\Desktop\dhruvesh\Before18-7\ConvasAndDateTime\ConvasAndDateTime\obj\Debug\Conversion.csprojResolveAssemblyReference.cache
+E:\EssentialPracticals\Before 18-7\ConvasAndDateTime\ConvasAndDateTime\bin\Debug\ConvasAndDateTime.exe.config
+E:\EssentialPracticals\Before 18-7\ConvasAndDateTime\ConvasAndDateTime\obj\Debug\ConvasAndDateTime.exe
+E:\EssentialPracticals\Before 18-7\ConvasAndDateTime\ConvasAndDateTime\obj\Debug\ConvasAndDateTime.pdb

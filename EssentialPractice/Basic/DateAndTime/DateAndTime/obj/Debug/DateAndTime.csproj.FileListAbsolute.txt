@@ -1,0 +1,12 @@
+C:\Users\Dhruv\Desktop\dhruvesh\DateAndTime\DateAndTime\bin\Debug\DateAndTime.exe.config
+C:\Users\Dhruv\Desktop\dhruvesh\DateAndTime\DateAndTime\bin\Debug\DateAndTime.exe
+C:\Users\Dhruv\Desktop\dhruvesh\DateAndTime\DateAndTime\bin\Debug\DateAndTime.pdb
+C:\Users\Dhruv\Desktop\dhruvesh\DateAndTime\DateAndTime\obj\Debug\DateAndTime.csprojResolveAssemblyReference.cache
+C:\Users\Dhruv\Desktop\dhruvesh\DateAndTime\DateAndTime\obj\Debug\DateAndTime.exe
+C:\Users\Dhruv\Desktop\dhruvesh\DateAndTime\DateAndTime\obj\Debug\DateAndTime.pdb
+C:\Users\Dhruvesh\Desktop\dhruvesh\Before18-7\DateAndTime\DateAndTime\bin\Debug\DateAndTime.exe.config
+C:\Users\Dhruvesh\Desktop\dhruvesh\Before18-7\DateAndTime\DateAndTime\obj\Debug\DateAndTime.exe
+C:\Users\Dhruvesh\Desktop\dhruvesh\Before18-7\DateAndTime\DateAndTime\obj\Debug\DateAndTime.pdb
+E:\EssentialPracticals\Before 18-7\DateAndTime\DateAndTime\bin\Debug\DateAndTime.exe.config
+E:\EssentialPracticals\Before 18-7\DateAndTime\DateAndTime\obj\Debug\DateAndTime.exe
+E:\EssentialPracticals\Before 18-7\DateAndTime\DateAndTime\obj\Debug\DateAndTime.pdb

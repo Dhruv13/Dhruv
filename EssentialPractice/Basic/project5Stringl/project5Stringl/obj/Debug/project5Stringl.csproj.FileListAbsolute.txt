@@ -1,0 +1,12 @@
+C:\Users\Dhruv\Desktop\dhruvesh\project5Stringl\project5Stringl\bin\Debug\project5Stringl.exe.config
+C:\Users\Dhruv\Desktop\dhruvesh\project5Stringl\project5Stringl\bin\Debug\project5Stringl.exe
+C:\Users\Dhruv\Desktop\dhruvesh\project5Stringl\project5Stringl\bin\Debug\project5Stringl.pdb
+C:\Users\Dhruv\Desktop\dhruvesh\project5Stringl\project5Stringl\obj\Debug\project5Stringl.csprojResolveAssemblyReference.cache
+C:\Users\Dhruv\Desktop\dhruvesh\project5Stringl\project5Stringl\obj\Debug\project5Stringl.exe
+C:\Users\Dhruv\Desktop\dhruvesh\project5Stringl\project5Stringl\obj\Debug\project5Stringl.pdb
+C:\Users\Dhruvesh\Desktop\dhruvesh\Before18-7\project5Stringl\project5Stringl\bin\Debug\project5Stringl.exe.config
+C:\Users\Dhruvesh\Desktop\dhruvesh\Before18-7\project5Stringl\project5Stringl\obj\Debug\project5Stringl.exe
+C:\Users\Dhruvesh\Desktop\dhruvesh\Before18-7\project5Stringl\project5Stringl\obj\Debug\project5Stringl.pdb
+C:\Users\Dhruvesh\Desktop\dhruvesh\Before18-7\project5Stringl\project5Stringl\bin\Debug\project5Stringl.exe
+C:\Users\Dhruvesh\Desktop\dhruvesh\Before18-7\project5Stringl\project5Stringl\bin\Debug\project5Stringl.pdb
+C:\Users\Dhruvesh\Desktop\dhruvesh\Before18-7\project5Stringl\project5Stringl\obj\Debug\project5Stringl.csprojResolveAssemblyReference.cache

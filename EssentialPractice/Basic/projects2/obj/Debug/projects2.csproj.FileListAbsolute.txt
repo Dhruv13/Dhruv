@@ -1,0 +1,6 @@
+C:\Users\Dhruv\Desktop\dhruvesh\projects2\projects2\bin\Debug\projects2.exe.config
+C:\Users\Dhruv\Desktop\dhruvesh\projects2\projects2\obj\Debug\projects2.csprojResolveAssemblyReference.cache
+C:\Users\Dhruv\Desktop\dhruvesh\projects2\projects2\bin\Debug\projects2.exe
+C:\Users\Dhruv\Desktop\dhruvesh\projects2\projects2\bin\Debug\projects2.pdb
+C:\Users\Dhruv\Desktop\dhruvesh\projects2\projects2\obj\Debug\projects2.exe
+C:\Users\Dhruv\Desktop\dhruvesh\projects2\projects2\obj\Debug\projects2.pdb
