@@ -1,0 +1,12 @@
+C:\Users\Dhruv\Desktop\dhruvesh\UseofPropertyMethod\UseofPropertyMethod\bin\Debug\UseofPropertyMethod.exe.config
+C:\Users\Dhruv\Desktop\dhruvesh\UseofPropertyMethod\UseofPropertyMethod\obj\Debug\UseofPropertyMethod.csprojResolveAssemblyReference.cache
+C:\Users\Dhruv\Desktop\dhruvesh\UseofPropertyMethod\UseofPropertyMethod\bin\Debug\UseofPropertyMethod.exe
+C:\Users\Dhruv\Desktop\dhruvesh\UseofPropertyMethod\UseofPropertyMethod\bin\Debug\UseofPropertyMethod.pdb
+C:\Users\Dhruv\Desktop\dhruvesh\UseofPropertyMethod\UseofPropertyMethod\obj\Debug\UseofPropertyMethod.exe
+C:\Users\Dhruv\Desktop\dhruvesh\UseofPropertyMethod\UseofPropertyMethod\obj\Debug\UseofPropertyMethod.pdb
+C:\Users\Dhruvesh\Desktop\dhruvesh\19-7\UseofPropertyMethod\UseofPropertyMethod\bin\Debug\UseofPropertyMethod.exe.config
+C:\Users\Dhruvesh\Desktop\dhruvesh\19-7\UseofPropertyMethod\UseofPropertyMethod\obj\Debug\UseofPropertyMethod.exe
+C:\Users\Dhruvesh\Desktop\dhruvesh\19-7\UseofPropertyMethod\UseofPropertyMethod\obj\Debug\UseofPropertyMethod.pdb
+C:\Users\Dhruvesh\Desktop\dhruvesh\19-7\UseofPropertyMethod\UseofPropertyMethod\bin\Debug\UseofPropertyMethod.exe
+C:\Users\Dhruvesh\Desktop\dhruvesh\19-7\UseofPropertyMethod\UseofPropertyMethod\bin\Debug\UseofPropertyMethod.pdb
+C:\Users\Dhruvesh\Desktop\dhruvesh\19-7\UseofPropertyMethod\UseofPropertyMethod\obj\Debug\UseofPropertyMethod.csprojResolveAssemblyReference.cache

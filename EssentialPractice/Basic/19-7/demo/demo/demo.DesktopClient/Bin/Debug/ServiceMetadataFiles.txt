@@ -1,0 +1,3 @@
+demo.Server.Properties.Service.lsml
+demo.Server.Properties.DataSources.ApplicationData.lsml
+demo.Server.DataSources.ApplicationData.tables.lsml

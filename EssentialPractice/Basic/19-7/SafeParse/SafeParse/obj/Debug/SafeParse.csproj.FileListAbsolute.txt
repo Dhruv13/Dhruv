@@ -1,0 +1,6 @@
+C:\Users\Dhruv\Desktop\dhruvesh\SafeParse\SafeParse\bin\Debug\SafeParse.exe.config
+C:\Users\Dhruv\Desktop\dhruvesh\SafeParse\SafeParse\bin\Debug\SafeParse.exe
+C:\Users\Dhruv\Desktop\dhruvesh\SafeParse\SafeParse\bin\Debug\SafeParse.pdb
+C:\Users\Dhruv\Desktop\dhruvesh\SafeParse\SafeParse\obj\Debug\SafeParse.csprojResolveAssemblyReference.cache
+C:\Users\Dhruv\Desktop\dhruvesh\SafeParse\SafeParse\obj\Debug\SafeParse.exe
+C:\Users\Dhruv\Desktop\dhruvesh\SafeParse\SafeParse\obj\Debug\SafeParse.pdb

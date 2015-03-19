@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="C:\Users\Dhruvesh\Desktop\dhruvesh\19-7\demo\demo\demo.DesktopClient\Properties\Client.lsml" Checksum="B6E995531D494F179DD3C813786E690A34C1E718BD2A77DA01A8B2AD4E24941E" />
+    <Document FullPath="C:\Users\Dhruvesh\Desktop\dhruvesh\19-7\demo\demo\demo.DesktopClient\Properties\Proxies.lsml" Checksum="25965CA55B954049F2B11FC6C7CE09DF1C33F38CE61F53F6E7F857E015503E48" />
+    <Document FullPath="C:\Users\Dhruvesh\Desktop\dhruvesh\19-7\demo\demo\demo.DesktopClient\Screens\ListDetail.lsml" Checksum="A4CECD422B8B24758AB6DB8E276D95E2A3C7A00C8FBB21B6FB3F1C4C42543A3D" />
+  </Documents>
+</ModelDocumentManifest>

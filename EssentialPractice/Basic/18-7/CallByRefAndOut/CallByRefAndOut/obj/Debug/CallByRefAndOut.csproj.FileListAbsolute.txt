@@ -1,0 +1,6 @@
+C:\Users\Dhruv\Desktop\dhruvesh\CallByRefAndOut\CallByRefAndOut\bin\Debug\CallByRefAndOut.exe.config
+C:\Users\Dhruv\Desktop\dhruvesh\CallByRefAndOut\CallByRefAndOut\bin\Debug\CallByRefAndOut.exe
+C:\Users\Dhruv\Desktop\dhruvesh\CallByRefAndOut\CallByRefAndOut\bin\Debug\CallByRefAndOut.pdb
+C:\Users\Dhruv\Desktop\dhruvesh\CallByRefAndOut\CallByRefAndOut\obj\Debug\CallByRefAndOut.csprojResolveAssemblyReference.cache
+C:\Users\Dhruv\Desktop\dhruvesh\CallByRefAndOut\CallByRefAndOut\obj\Debug\CallByRefAndOut.exe
+C:\Users\Dhruv\Desktop\dhruvesh\CallByRefAndOut\CallByRefAndOut\obj\Debug\CallByRefAndOut.pdb
