@@ -1,0 +1,13 @@
+﻿@model  CRUDMORE.Models.LoginViewModel
+@{
+    Layout = null;
+}
+@using(Html.BeginForm())
+{
+    @Html.HiddenFor(x=>x.UserId)
+    <p>
+        @Html.DisplayForModel()
+        <input type="submit" value="Delete" onclick="return confirm('are u sure?')" />
+        @Html.ActionLink("Back","Index")
+    </p>
+}

@@ -1,0 +1,33 @@
+﻿@model  CRUDMORE.Models.LoginViewModel
+@{
+    Layout = null;
+}
+
+@using(Html.BeginForm())
+{
+    <p>
+        @Html.HiddenFor(x=>x.UserId)
+        @Html.LabelFor(x=>x.UserName)
+        @Html.TextAreaFor(x=>x.UserName)
+        @Html.ValidationMessageFor(x=>x.UserName)
+    </p>
+    <p>
+        @Html.LabelFor(x=>x.CityId,"City :")
+        @Html.DropDownListFor(x=>x.CityId,CRUDMORE.Models.U.GetCity)
+        @Html.ValidationMessageFor(x=>x.CityId)
+    </p>
+    <p>
+       @Html.LabelFor(x=>x.Gender,"Male")
+        @Html.RadioButtonFor(x=>x.Gender,true)
+        @Html.LabelFor(x=>x.Gender,"Female")
+        @Html.RadioButtonFor(x=>x.Gender,false)
+    </p>
+    <p>
+        <input type="checkbox" name="Hobby1" value="Play" />Play<br />
+        <input type="checkbox" name="Hobby2" value="Read" />Read<br />
+        <textarea name="Hobby3"></textarea>
+    </p>
+    <input type="submit" value="Edit" />
+   <h1>@ViewBag.Message</h1>
+}
+
