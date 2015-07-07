@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="scripts/jquery-2.1.4.js"></script>
+
+</head>
+
+<body>
+    <a href="#" id="btn1">Button1</a>
+    <div id="btn2">Button2</div>
+    <input type="button" value="button3" id="btn3" />
+    <div id="result"></div>
+    <script>
+            function func1()
+            {
+                $("#result").html("<textarea></textarea>");
+            }
+            $("#btn1").click(func1);
+            $("#btn2").click(function () {
+                $("#result").html("button3");
+            });
+    </script>
+</body>
+</html>

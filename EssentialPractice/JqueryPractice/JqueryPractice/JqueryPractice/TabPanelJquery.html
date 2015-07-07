@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Tab Panel Demo in Jquery</title>
+    <script src="scripts/jquery-2.1.4.js"></script>
+</head>
+<body>
+    <a href="#" onclick="show('#home')">Home</a>
+    <a href="#" onclick="show('#about')">About us</a>
+    <a href="#" onclick="show('#contact')">contact</a>
+    <div id="result">
+        <div id="home">
+            <h1>Home</h1>
+        </div>
+        <div id="about">
+            <h1>About</h1>
+        </div>
+        <div id="contact">
+            <h1>Contact us</h1>
+        </div>
+    </div>
+    <script>
+        $("result>*").hide();
+        function show(arg) {
+            $("#result>*").hide(1000);
+            $(arg).show(2000);
+        }
+    </script>
+</body>
+</html>
