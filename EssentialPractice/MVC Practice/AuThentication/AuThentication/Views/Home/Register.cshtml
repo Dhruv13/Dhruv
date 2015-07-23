@@ -1,0 +1,32 @@
+﻿@model AuThentication.Models.RegisterViewModel
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register</h2>
+@using(Html.BeginForm())
+{
+    <p>
+        @Html.ActionLink("Login","Login","Home")
+    </p>
+    <p>
+        @Html.LabelFor(x=>x.UserMail)
+        @Html.EditorFor(x=>x.UserMail)
+        @Html.ValidationMessageFor(x=>x.UserMail)
+    </p>
+    <p>
+        @Html.LabelFor(x =>x.UserPass)
+        @Html.PasswordFor(x => x.UserPass)
+        @Html.ValidationMessageFor(x => x.UserPass)
+    </p>
+    <p>
+        @Html.LabelFor(x => x.ReenterPass)
+        @Html.PasswordFor(x => x.ReenterPass)
+        @Html.ValidationMessageFor(x => x.ReenterPass)
+    </p>
+    <p>
+        <input type="submit" value="Register"/>
+        <h2>@ViewBag.Message</h2>
+    </p>
+}
+

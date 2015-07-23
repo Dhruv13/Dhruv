@@ -1,0 +1,54 @@
+﻿<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+@model  AjexCRUD.Models.CategoryModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+
+@using (Ajax.BeginForm(new AjaxOptions() {
+HttpMethod="Post",
+UpdateTargetId="result",
+OnSuccess="MyFunction",
+Url="Home/Add"
+}))
+{
+
+    <p>
+        @Html.LabelFor(x => x.ProductName)
+        @Html.TextBoxFor(x => x.ProductName)
+        @Html.ValidationMessageFor(x => x.ProductName)
+    </p>
+    <p>
+  <input type="button" value="Add"/>
+    </p>
+    <p id="result"></p>
+
+}
+
+<script>
+    $("#form1").click(function () {
+
+        var FormValue = $("#form1");
+        var url = FormValue.attr("action");
+        var Data = $("#form1").serialize();
+   
+        $.post(url, Data, function (data) {
+            $("#result");
+        })
+    
+
+    })
+    
+    function MyFunction() {
+        console.log("Succs");
+    }
+  
+   
+</script>
+
+    

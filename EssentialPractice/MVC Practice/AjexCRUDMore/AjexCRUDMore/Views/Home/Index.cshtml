@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<!DOCTYPE html>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+<h2>Index</h2>
+@using(Ajax.BeginForm(new AjaxOptions{
+    HttpMethod="get",
+
+}))
+{
+    <table border="1">
+        <thead>
+            <tr>
+                <th>ProductName</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+           @foreach (var i in ViewBag.Products)
+           {
+               <tr>
+                   <td>@i.ProductName</td>
+                   <td>@Html.ActionLink("Edit","Edit",new{id=i.ProductId})</td>
+                   <td><a href="/Home/Delete/@i.ProductId">Delete</a></td>
+               </tr>
+           }
+        </tbody>
+    </table>
+}

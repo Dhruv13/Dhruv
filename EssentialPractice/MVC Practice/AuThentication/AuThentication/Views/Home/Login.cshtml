@@ -1,0 +1,27 @@
+﻿@model  AuThentication.Models.LoginViewModel
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+@using(Html.BeginForm())
+{
+    <p>
+        @Html.LabelFor(x=>x.UserMail)
+        @Html.EditorFor(x=>x.UserMail)
+        @Html.ValidationMessageFor(x=>x.UserMail)
+    </p>
+    <p>
+        @Html.LabelFor(x=>x.UserPass)
+        @Html.EditorFor(x=>x.UserPass)
+        @Html.ValidationMessageFor(x=>x.UserPass)
+    </p>
+    
+        
+    <p>
+        <input type="submit" value="Login" />
+        @Html.CheckBoxFor(x => x.RememberMe)
+        @ViewBag.Message
+    </p>
+}
+

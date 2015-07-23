@@ -1,0 +1,39 @@
+﻿@model AjexCRUDMore.Models.ProductViewModel
+@{
+    ViewBag.Title = "Add";
+}
+
+<!DOCTYPE html>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+@using(Ajax.BeginForm(new AjaxOptions(){
+    HttpMethod="Post",
+    UpdateTargetId="result",
+    OnSuccess="MyFunction",
+    OnFailure="MyFunction2",
+    OnComplete="MyFunction4",
+    OnBegin="MyFunction3"
+}))
+{
+    @Html.LabelFor(x=>x.ProductName)
+    @Html.EditorFor(model=>model.ProductName)
+    @Html.ValidationMessageFor(x=>x.ProductName)
+    <button>Submit</button>
+    <h2 id="result"></h2>
+}
+<script>
+    function MyFunction() {
+        $("#result").html("Done");
+    }
+    function MyFunction2() {
+        $("#result").html("Cant");
+    }
+    function MyFunction3() {
+        $("#result").html("Hello");
+    }
+    function MyFunction4() {
+        $("#result").html("Saras");
+    }
+</script>

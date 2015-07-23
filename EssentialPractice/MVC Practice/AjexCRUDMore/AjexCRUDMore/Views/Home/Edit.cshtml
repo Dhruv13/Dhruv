@@ -1,0 +1,39 @@
+﻿@model AjexCRUDMore.Models.ProductViewModel
+@{
+    ViewBag.Title = "Edit";
+}
+<!DOCTYPE html>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+@using(Ajax.BeginForm(new AjaxOptions
+{
+    HttpMethod = "post",
+    UpdateTargetId = "result",
+    OnSuccess = "Function1",
+    OnFailure = "Function2",
+    OnBegin = "Function3",
+}))
+{
+    @Html.HiddenFor(x=>x.ProductId)
+    <p>
+        @Html.LabelFor(x=>x.ProductName)
+        @Html.TextBoxFor(x=>x.ProductName)
+        @Html.ValidationMessageFor(x=>x.ProductName)
+        
+    </p>
+    <h2 id="result"></h2>
+    <button>Submit</button>
+}
+  <script>
+      function Function1() {
+          $("#result").html("Edited");
+      }
+      function Function2() {
+          $("#result").html("Cant");
+      }
+      function Function3() {
+          $("#result").html("Wait");
+      }
+  </script>
