@@ -9,28 +9,14 @@
 <script src="~/Scripts/jquery.validate.min.js"></script>
 <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
 <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
-@using(Ajax.BeginForm(new AjaxOptions{
-    HttpMethod="post",
-    UpdateTargetId="result",
-    OnSuccess="Function1",
-    OnFailure="Function2",
-    OnBegin="Function3"
-}))
-{
-    @Html.HiddenFor(x=>x.ProductId)
-   @Html.DisplayForModel();
-    <button>Submit</button>
-<h1 id="result"></h1>
-}
-<script>
-    function Function1() {
-        $("#result").html("Deleted");
-    }
-    function Function2() {
-        $("#result").html("Cant");
 
+    @using (Html.BeginForm())
+    {
+        @Html.HiddenFor(x => x.ProductId)
+        @Html.DisplayForModel();
+        <button>Delete</button>
+        @Html.ActionLink("List", "Index")
     }
-    function Function3() {
-        $("#result").html("Wait");
-    }
-</script>
+
+<h1 id="result"></h1>
+

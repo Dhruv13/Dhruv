@@ -1,0 +1,6 @@
+C:\Users\Dhruvesh\Desktop\dhruvesh\Tuples\Tuples\bin\Debug\Tuples.exe.config
+C:\Users\Dhruvesh\Desktop\dhruvesh\Tuples\Tuples\bin\Debug\Tuples.exe
+C:\Users\Dhruvesh\Desktop\dhruvesh\Tuples\Tuples\bin\Debug\Tuples.pdb
+C:\Users\Dhruvesh\Desktop\dhruvesh\Tuples\Tuples\obj\Debug\Tuples.csprojResolveAssemblyReference.cache
+C:\Users\Dhruvesh\Desktop\dhruvesh\Tuples\Tuples\obj\Debug\Tuples.exe
+C:\Users\Dhruvesh\Desktop\dhruvesh\Tuples\Tuples\obj\Debug\Tuples.pdb

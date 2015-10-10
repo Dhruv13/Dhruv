@@ -1,0 +1,6 @@
+C:\Users\Dhruvesh\Desktop\dhruvesh\Revission\YieldwithclassandEnumurator\YieldwithclassandEnumurator\bin\Debug\YieldwithclassandEnumurator.exe.config
+C:\Users\Dhruvesh\Desktop\dhruvesh\Revission\YieldwithclassandEnumurator\YieldwithclassandEnumurator\obj\Debug\YieldwithclassandEnumurator.csprojResolveAssemblyReference.cache
+C:\Users\Dhruvesh\Desktop\dhruvesh\Revission\YieldwithclassandEnumurator\YieldwithclassandEnumurator\bin\Debug\YieldwithclassandEnumurator.exe
+C:\Users\Dhruvesh\Desktop\dhruvesh\Revission\YieldwithclassandEnumurator\YieldwithclassandEnumurator\bin\Debug\YieldwithclassandEnumurator.pdb
+C:\Users\Dhruvesh\Desktop\dhruvesh\Revission\YieldwithclassandEnumurator\YieldwithclassandEnumurator\obj\Debug\YieldwithclassandEnumurator.exe
+C:\Users\Dhruvesh\Desktop\dhruvesh\Revission\YieldwithclassandEnumurator\YieldwithclassandEnumurator\obj\Debug\YieldwithclassandEnumurator.pdb

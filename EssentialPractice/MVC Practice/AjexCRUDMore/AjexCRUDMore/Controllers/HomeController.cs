@@ -22,10 +22,12 @@ namespace AjexCRUDMore.Controllers
             return View(new ProductViewModel());
         }
         [HttpPost]
-        public ActionResult Add(ProductViewModel model)
+        public ActionResult Add(ProductViewModel model,HttpPostedFileBase photo)
         {
             if (ModelState.IsValid)
             {
+                
+
                 var search = db.Products.FirstOrDefault(x => x.ProductName == model.ProductName);
                 if(search==null)
                 {
@@ -34,6 +36,7 @@ namespace AjexCRUDMore.Controllers
                         ProductName = model.ProductName
                     });
                     db.SaveChanges();
+                    
                     return Content("Added");
                 }
                 else
@@ -119,7 +122,8 @@ namespace AjexCRUDMore.Controllers
             {
                 db.Products.Remove(search);
                 db.SaveChanges();
-                return RedirectToAction("Add");
+                ModelState.Clear();
+                return RedirectToAction("Index");
 
             }
         }
